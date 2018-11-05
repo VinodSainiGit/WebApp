@@ -13,7 +13,9 @@ namespace WebApplication1.Controllers
     public class HomeController : Controller
     {
       
-
+        /// <summary>
+        /// Temp list
+        /// </summary>
         List<Product> ProductList;
         public IActionResult Index()
         {
