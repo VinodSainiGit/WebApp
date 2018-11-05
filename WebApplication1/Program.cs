@@ -12,6 +12,11 @@ namespace WebApplication1
 {
     public class Program
     {
+        
+        /// <summary>
+    /// Static function main
+    /// </summary>
+    /// <param name="args"></param>
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
