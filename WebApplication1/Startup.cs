@@ -14,6 +14,7 @@ namespace WebApplication1
 {
     public class Startup
     {
+        //Added another comment(2)
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
